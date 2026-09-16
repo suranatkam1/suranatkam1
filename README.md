@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Suranat Kamhom
 =======================================================================================================================================
 <img
-src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
-bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
-M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/OuQmhmAAdJFLi/giphy.gif?cid=bb5a1c3ay7xeuah7outima0y8hjyn561jaqa57u11ez5rziq&ep=v1_gifs_trending&rid=giphy.gif&ct=g)" width="100" height="100" />
+src="https://media.giphy.com/media/OuQmhmAAdJFLi/giphy.gif?cid=bb5a1c3ay7xeuah7outima0y8hjyn561jaqa57u11ez5rziq&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100" height="100" />
 * 🌍  I'm based in ไทย
 * ✉️  You can contact me at [suranat.kam@ku.th](mailto:suranat.kam@ku.th)
 * 👥  I'm looking to collaborate on เล่นกีฬา
